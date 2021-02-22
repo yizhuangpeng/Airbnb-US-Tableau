@@ -1,6 +1,12 @@
 # Airbnb-US-Tableau
 We provide data visualization for Airbnb in US using Tableau. 
 
+Special thanks to **Contributors** of this projects:
+CHEN Leyan (cly.093097@gmail.com)
+ZHANG Fan (SailAway0307@gmail.com)
+JIN Shan (nkim02735@gmail.com)
+YAO Wanqing (wanqing_yao@foxmail.com)
+
 Data gathered from https://www.kaggle.com/kritikseth/us-airbnb-open-data. 
 
 ## Contents
