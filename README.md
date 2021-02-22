@@ -7,7 +7,9 @@ Data gathered from https://www.kaggle.com/kritikseth/us-airbnb-open-data.
 1. Selecting 2 largest Airbnb US market: New York and Los Angeles
 2. Overview of New York
 3. Overview of Los Angeles
-4. 
+4. Indetify problem: New York has fewer reviews than Los Angeles
+5. Explore reasons
+6. Conclusion: suggestions on increasing Airbnb reviews in New York
 
 
 ## Screenshots
