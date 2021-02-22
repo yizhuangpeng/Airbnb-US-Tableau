@@ -1,9 +1,9 @@
 # Airbnb-US-Tableau
 
-We provide data visualization for Airbnb in US using Tableau. 
+We provide data visualization for Airbnb in US using Tableau. Data gathered from https://www.kaggle.com/kritikseth/us-airbnb-open-data. 
 
 
-Special thanks to **Contributors** of this projects:
+**Special thanks to Contributors of this projects:**
 
 CHEN Leyan (cly.093097@gmail.com)
 
@@ -13,8 +13,6 @@ JIN Shan (nkim02735@gmail.com)
 
 YAO Wanqing (wanqing_yao@foxmail.com)
 
-
-Data gathered from https://www.kaggle.com/kritikseth/us-airbnb-open-data. 
 
 ## Contents
 1. Selecting 2 largest Airbnb US market: New York and Los Angeles
