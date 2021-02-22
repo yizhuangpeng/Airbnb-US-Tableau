@@ -1,19 +1,24 @@
 # Airbnb-US-Tableau
 We provide data visualization for Airbnb in US using Tableau. 
+
 Data gathered from https://www.kaggle.com/kritikseth/us-airbnb-open-data. 
+
+## Contents
+1. Selecting 2 largest Airbnb US market: New York and Los Angeles
+2. Overview of New York
+3. Overview of Los Angeles
+4. 
+
 
 ## Screenshots
 
 <p float="left">
   <img src="/screenshots/1.png" width="500" />
-  <img src="/screenshots/2.png" width="500" /> 
-  
+  <img src="/screenshots/2.png" width="500" />   
   <img src="/screenshots/3.png" width="500" />
   <img src="/screenshots/4.png" width="500" /> 
-  </> 
   <img src="/screenshots/5.png" width="500" />
   <img src="/screenshots/6.png" width="500" /> 
-  
   <img src="/screenshots/7.png" width="500" />
   <img src="/screenshots/8.png" width="500" /> 
   <img src="/screenshots/9.png" width="500" />
